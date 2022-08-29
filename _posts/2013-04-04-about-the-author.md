@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Меня зовут Груздов Владимир Ильич. Я интересуюсь успехами современной теоретической физики в области фунтаментальных проблем происхождения и эволюции Вселенной, Теории Гравитации, теории ядерных преобразований и делюсь своими собственными наработками и прикладными выводами применительно к разным областям научного познания. Мною написаны и опубликованы статьи, с которыми можно ознакомиться на сайте https://libmonster.ru/Gruzdov, в издательстве Ridero у меня опубликована книга "Гипотеза Нейтронной Вселенной" 2022 год, где я знакомлю читателей с актуальными научными гипотезами о создании галактик, основанными на концепции Бюроканских астрофизиков, под руководством академика АН СССР В. Амбарцумяна.
