@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Материалы, доступные в сети
 permalink: /Материалы
 ---
 
