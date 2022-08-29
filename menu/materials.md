@@ -1,8 +1,11 @@
-layout 	title 	permalink
-page
+---
+layout: page
+title: Материалы
+permalink: /materials
+---
 	
 Материалы, доступные в сети
 	
-/materials
+
 Мои статьи, опубликованные в разных источниках
 Ссылка на мою книгу
