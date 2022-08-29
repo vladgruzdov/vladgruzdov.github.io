@@ -4,4 +4,4 @@ title: Контакты
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+По любым вопросам для связи со мной пишите на почту vladgruzdov@gmail.com
